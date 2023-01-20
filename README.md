@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a self-taught programmer with a decade of experience developing video games from top to bottom -- from high-level scripting to low-level game engine tools and systems, including graphics, networking, animation, and build pipelines.
+
+#### Check out some cool stuff I'm working on:
+- [Team Fortress 2: Panda3D](https://github.com/TF-Panda)
+- [The Player (A custom Panda3D fork)](https://github.com/toontownretro)
+#### And some stuff I've worked on in the past:
+- [Source Engine Direct3D 11 Renderer](https://github.com/quiverteam/Engine/tree/dx11/src/materialsystem/shaderapidx11)
+- [School Inventory Management Software](https://github.com/lachbr/lhs-cat-tablet-inventory)
+
 <!--
 **lachbr/lachbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
